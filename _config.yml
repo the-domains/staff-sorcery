@@ -1,0 +1,28 @@
+name: Staff Sorcery
+favicon: null
+layout_spectrum: 0.10171603551134467
+typography_spectrum: 0.5972899650223553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18193499092012644
+  lightness: 0.6771545808296651
+  saturation: 0.9865720353554934
+  rhythmicContrast: 0.02823299402371049
+purpose: []
