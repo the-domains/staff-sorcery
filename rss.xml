@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[R&D for Wirral Recruitment ]]></title>
         <description><![CDATA[R&D for Wirral Recruitment ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/staff-sorcery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 13:55:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 14:01:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/staff-sorcery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best practice tips for keeping up-to-date on recruitment law]]></title>
+            <description><![CDATA[<article><h1>Best practice tips for keeping up-to-date on recruitment law</h1><p>Being knowledgeable about recruitment law is essential, whether you work on permanent, contract or temporary placements, and no matter which sector you work in. But how can you keep on top of all the changes? We sat down with Lewina Farrell, Head of Professional Services at the REC, to get her best practice tips for staying up-to-date on recruitment law.</p><img src="https://www.rec.uk.com/__data/assets/thumbnail/0008/229076/Untitled-copy.jpg"></article>]]></description>
+            <link>https://www.rec-irp.uk.com/about-us/news-feed/best-practice-tips-for-keeping-up-to-date-on-recruitment-law</link>
+            <guid isPermaLink="false">00c31a0d-868e-4d58-bb88-1822ea0fc6b9</guid>
+            <pubDate>Wed, 25 Nov 2015 14:01:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Revenue and recruiter numbers up as industry has best year ever]]></title>
             <description><![CDATA[<article><h1>Revenue and recruiter numbers up as industry has best year ever</h1><p>Total recruitment industry turnover increased by 9.7 per cent in 2014/15 to reach £31.5 billion. Growth was delivered by improved margins in the permanent market and increased volumes of temporary, contract and interim placements.</p><img src="https://www.rec.uk.com/__data/assets/thumbnail/0008/229076/Untitled-copy.jpg"></article>]]></description>
