@@ -1,7 +1,7 @@
 name: Staff Sorcery
 favicon: null
-layout_spectrum: 0.89848
-typography_spectrum: 0.5972899650223553
+layout_spectrum: 0.28687
+typography_spectrum: 0.32794
 title: 'R&D for Wirral Recruitment '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.18193499092012644
+    - '#0dbbb5'
+    - '#064b73'
+    - '#000000'
+    - '#00ffff'
+    - '#008080'
+  brandStrength: 0.1875
   lightness: 0.6771545808296651
-  saturation: 0.9865720353554934
+  saturation: 0.5
   rhythmicContrast: 0.02823299402371049
 purpose: []
